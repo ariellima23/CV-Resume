@@ -1,11 +1,11 @@
-<h1 align="center">
+<!-- <h1 align="center">
     <img alt="Resume" title="#CV" src="#" width="250px" />
     <img alt="Resume" title="#CV" src="#" width="250px" />
-</h1>
+</h1> -->
 
-<h4 align="center">
+<h2 align="center">
   📄 My CV Resume
-</h4>
+</h2>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ariellima23/CV-Resume">
 
