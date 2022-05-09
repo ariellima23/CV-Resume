@@ -26,9 +26,9 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="#" src="#" width="100%">
-</p>
+</p> -->
 
 ## :rocket: Tecnologias
 
