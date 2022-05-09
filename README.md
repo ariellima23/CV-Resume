@@ -15,7 +15,6 @@
 
   <img alt="Repository issues" src="https://img.shields.io/github/issues/ariellima23/CV-Resume">
 
-  <img alt="License" src="https://img.shields.io/github/license/ariellima23/CV-Resume">
 </p>
 
 <p align="center">
@@ -41,10 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto do meu currículo feito de forma responsiva para Mobile e Web, contendo as veerssões Light e Dark.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
